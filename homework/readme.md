@@ -12,7 +12,7 @@ member<-Librarian:Checking member
 member->Librarian:Return book
 member<-Librarian:Checking period borrowed
 ```
-<img scr= "">
+<img src= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s1.png">
 
 sequence diagram 2
 
@@ -36,7 +36,7 @@ User->Seller:ordering product
 Seller->User:Deliver
 User->warehouse:stores
 ```
-<img scr= "">
+<img src= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s2.png">
 
 sequence diagram 3
 
@@ -55,7 +55,7 @@ Customer-->Seller:return product
 Seller-->Customer:change product
 
 ```
-<img scr= "">
+<img src= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s5.png">
 
 sequence diagram 4
 
@@ -72,7 +72,7 @@ Facebook->Showstatus:System
 User->Facebook:updatepic
 User->Facebook:updatestatus
 ```
-<img scr= "">
+<img src= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s3.png">
 
 sequence diagram 5
 
@@ -91,7 +91,7 @@ bankingmobile->recipient:transfer money
 bankingmobile->mobile:success
 bankingmobile-->mobile:fail
 ```
-<img scr= "">
+<img scr= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s4.png">
 
 
 
