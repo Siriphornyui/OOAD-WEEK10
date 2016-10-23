@@ -1,4 +1,4 @@
-#WORK09
+#WORK10
 ##sequence diagram
 
 sequence diagram 1
@@ -91,7 +91,7 @@ bankingmobile->recipient:transfer money
 bankingmobile->mobile:success
 bankingmobile-->mobile:fail
 ```
-<img scr= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s4.png">
+<img src= "https://github.com/Siriphornyui/OOAD-WEEK10/blob/master/homework/s4.png">
 
 
 
